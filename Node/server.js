@@ -37,3 +37,5 @@ fs.unlink("./files/aman.txt", (err) => {
         console.log("File has been deleted");
     }
 });
+
+console.log("File has been deleted");
