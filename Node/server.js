@@ -20,11 +20,11 @@ const fs = require("fs");
 
 // <--------- Acces the files in the folder and write the files -------->
 
-// fs.writeFile("./files/aman.txt", "Hello I am web Developement and I am learning web developement", (err) => {
+// fs.writeFile("./files/akp.txt", "Hello I am web Developement and I am learning web developement and I am learning web developement", (err) => {
 //     if (err) {
 //         console.log(err);
 //     } else {
-//         console.log("File has been updated");
+//         console.log("Created file successfully");
 //     }
 // });
 
